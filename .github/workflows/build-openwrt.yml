@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: 派大星的云编译固件
+name: asdasd
 on:
   release:
     types: [published]
